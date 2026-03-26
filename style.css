@@ -22,7 +22,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
     background-color: purple;
     background-origin: initial;
-    image-rendering: optimizeQuality;
-    image-resolution: 1960px;
-    image-orientation: flip;
+    image1{
+        image-rendering: optimizeQuality;
+        image-resolution: 1960px;
+    }
 }
